@@ -21,7 +21,7 @@ My name is Diogo Costa or just Costa, up to you. I'm from Portugal and I'm curre
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <br>
-## Ordered by Knowledge(Left to Right)
+ Ordered by Knowledge(Left to Right)
   
 ## What i pretend/want to learn: 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40px" height="40px" style="padding-right:10px;"/>
