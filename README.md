@@ -27,6 +27,3 @@ Ordered by Knowledge (Left to Right)
 ## What i pretend/want to learn: 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40px" height="40px" style="padding-right:10px;"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40px" height="40px" style="padding-right:10px;"/>
-<br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=relayer25&show_icons=true&locale=en" alt="relayer25" style="padding-top:20px;"/></p>
