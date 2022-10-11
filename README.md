@@ -20,12 +20,13 @@ My name is Diogo Costa or just Costa, up to you. I'm from Portugal and I'm curre
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 PS: Ordered by knowledge (left to right).
 <br>
 
 ## What i pretend/want to learn: 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40px" height="40px" style="padding-right:10px;"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40px" height="40px" style="padding-right:10px;"/>
-<br />
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=relayer25&show_icons=true&locale=en" alt="relayer25" /></p>
